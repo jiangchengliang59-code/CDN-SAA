@@ -31,7 +31,6 @@ fused images
 ## 🖼️ Network Architecture 
 
 
-![Framework Architecture]
 <p align="center">
   <img src="./framework.png" width="60%" />
 </p>
