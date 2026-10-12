@@ -32,7 +32,7 @@ fused images
 
 
 <p align="center">
-  <img src="./framework.png" width="60%" />
+  <img src="./model.png" width="60%" />
 </p>
 
 *Figure 1: Overview of the CDN-SAA architecture for interactive infrared and visible image fusion.*
