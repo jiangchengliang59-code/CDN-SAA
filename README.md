@@ -34,7 +34,7 @@ fused images
 </p>
 
 <p align="center">
-  <img src=".fig/model.png" width="80%" />
+  <img src="./fig/model.png" width="100%" />
 </p>
 *Figure 2: Architecture of CDN-SAA*
 
