@@ -40,25 +40,28 @@ fused images
 
 ---
 
-CDN-SAA Training
+## 🚀 How to Run (Train & Test)
 
-Run
+Before training or testing, please configure the dataset paths, hyperparameters, and model settings in the configuration file: **`options/fusion.yml`**.
 
-python train.py
-and the trained model is available in './experimens/training/models'.
+###  Data Preparation
+Organize your dataset (e.g, M3FD, RoadScene, TNO) according to the following structure:
+```text
+├── datasets/
+│   ├── M3FD/
+│   │   ├── ir/
+│   │   └── vi/
+│   └── TNO/
+│       ├── ir/
+│       └── vi/
 
-Testing
-
-Run
-
-python test.py
 
 ## 📊 Qualitative & Quantitative Results 
 
 ### 1. Visual Comparison 
 
 <p align="center">
-  <img src="./assets/infrared_visible_input.png" width="45%" title="Input Pairs" />
+  <img src="./fig/infrared_visible_input.png" width="45%" title="Input Pairs" />
   <img src="./assets/fused_result.png" width="45%" title="Fused Result" />
 </p>
 <p align="center"><em>Figure 2: Qualitative comparison on complex target-aware scenes.</em></p>
