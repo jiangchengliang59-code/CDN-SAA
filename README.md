@@ -30,11 +30,12 @@ fused images
 
 ## 🖼️ Network Architecture 
 <p align="center">
-  <img src="./fig/method.png" width="100%" />
+  <img src="./fig/method.png" width="90%" />
 </p>
 *Figure 1: Comparison between conventional task-oriented IVIF methods and the proposed CDN-SAA.* 
+
 <p align="center">
-  <img src="./fig/model.png" width="100%" />
+  <img src="./fig/model.png" width="90%" />
 </p>
 *Figure 2: Overview of the CDN-SAA architecture for interactive infrared and visible image fusion.*
 
@@ -43,6 +44,17 @@ fused images
 ## 🚀 How to Run (Train & Test)
 
 Before training or testing, please configure the dataset paths, hyperparameters, and model settings in the configuration file: **`options/fusion.yml`**.
+
+### 1. Data Preparation
+Organize your dataset (e.g., M3FD, RoadScene, TNO) according to the following structure:
+```text
+├── datasets/
+│   ├── M3FD/
+│   │   ├── ir/
+│   │   └── vi/
+│   └── TNO/
+│       ├── ir/
+│       └── vi/
 
 ###  Data Preparation
 Organize your dataset (e.g, M3FD, RoadScene, TNO) according to the following structure:
