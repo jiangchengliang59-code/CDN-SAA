@@ -32,23 +32,20 @@ fused images
 <p align="center">
   <img src="./fig/method.png" width="100%" />
 </p>
-
+*Figure 2: Comparison between conventional task-oriented IVIF methods and the proposed CDN-SAA.* 
 <p align="center">
   <img src="./fig/model.png" width="100%" />
 </p>
-*Figure 2: Architecture of CDN-SAA*
+*Figure 2: Overview of the CDN-SAA architecture for interactive infrared and visible image fusion.*
 
 ---
-Data Preparation
 
-Download the M3FD dataset from this link and place it in the folder './MSRS_train/'.
-
-CDDFuse Training
+CDN-SAA Training
 
 Run
 
 python train.py
-and the trained model is available in './models/'.
+and the trained model is available in './experimens/training/models'.
 
 Testing
 
