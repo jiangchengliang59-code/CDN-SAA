@@ -61,9 +61,9 @@ Organize your dataset (e.g, M3FD, RoadScene, TNO) according to the following str
 ### 1. Visual Comparison 
 
 <p align="center">
-  <img src="./fig/infrared_visible_input.png" width="45%" title="Input Pairs" />
-  <img src="./assets/fused_result.png" width="45%" title="Fused Result" />
+  <img src="./fig/M3FD.png" width="90%" title=" Qualitative fusion results of MEFD" />
 </p>
+
 <p align="center"><em>Figure 2: Qualitative comparison on complex target-aware scenes.</em></p>
 
 ### 2. Quantitative Results 
