@@ -30,11 +30,11 @@ fused images
 
 ## 🖼️ Network Architecture 
 <p align="center">
-  <img src="./model.png" width="100%" />
+  <img src="./fig/method.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./model.png" width="80%" />
+  <img src=".fig/model.png" width="80%" />
 </p>
 *Figure 2: Architecture of CDN-SAA*
 
