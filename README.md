@@ -32,7 +32,7 @@ fused images
 <p align="center">
   <img src="./fig/method.png" width="100%" />
 </p>
-*Figure 2: Comparison between conventional task-oriented IVIF methods and the proposed CDN-SAA.* 
+*Figure 1: Comparison between conventional task-oriented IVIF methods and the proposed CDN-SAA.* 
 <p align="center">
   <img src="./fig/model.png" width="100%" />
 </p>
@@ -58,13 +58,20 @@ Organize your dataset (e.g, M3FD, RoadScene, TNO) according to the following str
 
 ## 📊 Qualitative & Quantitative Results 
 
-### 1. Visual Comparison 
+### 1.Visual Comparison 
 
 <p align="center">
-  <img src="./fig/M3FD.png" width="90%" title=" Qualitative fusion results of MEFD" />
+  <img src="./fig/M3FD.png" width="100%" />
 </p>
-
-<p align="center"><em>Figure 2: Qualitative comparison on complex target-aware scenes.</em></p>
+*Figure 3:  Qualitative fusion results of the "01937" scene from the M3FD dataset.*
+<p align="center">
+  <img src="./fig/round.png" width="100%" />
+</p>
+*Figure 4:  Qualitative fusion results of the "FLIR_00977"" scene from the RoadScene dataset.*
+<p align="center">
+  <img src="./fig/TNO.png" width="100%" />
+</p>
+*Figure 5:  Qualitative fusion results of the "03" scene from the TNO dataset.* 
 
 ### 2. Quantitative Results 
 
