@@ -29,13 +29,14 @@ demonstrate our model significantly improves the perceptual contrast and informa
 fused images
 
 ## 🖼️ Network Architecture 
-
+<p align="center">
+  <img src="./model.png" width="100%" />
+</p>
 
 <p align="center">
   <img src="./model.png" width="80%" />
 </p>
-
-*Figure 1: Overview of the CDN-SAA architecture for interactive infrared and visible image fusion.*
+*Figure 2: Architecture of CDN-SAA*
 
 ---
 Data Preparation
