@@ -31,9 +31,10 @@ fused images
 ## 🖼️ Network Architecture 
 
 
-![Framework Architecture](<p align="center">
+![Framework Architecture]
+<p align="center">
   <img src="./framework.png" width="60%" />
-</p>)
+</p>
 
 *Figure 1: Overview of the CDN-SAA architecture for interactive infrared and visible image fusion.*
 
